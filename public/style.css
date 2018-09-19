@@ -1,0 +1,101 @@
+li {
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px 10px;
+}
+
+#logo {
+	float: left;
+	margin-top: -20px;
+
+}
+
+#user-nav {
+	height: 30px;
+	background-color: #505a6b;
+	border: 1px solid #819ac4;
+	font-style: italic;
+	font-family: 'Source Serif Pro', serif; 
+	font-size: 12px; 
+	color: white;
+
+}
+
+#nav-bar {
+	height: 50px;
+	background-color: #545B75;
+	padding: 17px;
+	margin-bottom: 15px;
+}
+
+.searchbox {
+	padding: 5px;
+	font-size: 16px;
+}
+
+
+.container {
+	float: left;
+	margin-top: 10px;
+	margin-left: 80px;
+	width: 820px;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: left;
+}
+
+.main-sale {
+	padding: 10px;
+}
+
+.banner-links {
+	text-align: left;
+	margin-left: 30px;
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.myLinks {
+	color: #e85e4e;
+}
+
+.sidebar {
+	float: left;
+	margin-top: 15px;
+	margin-right: 10px;
+	width: 250px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.sidebar-sale {
+	width: 260px;
+	height: 150px;
+	margin-bottom: 10px;
+	background-color: #dcdee2;
+}
+
+.sidebar-pic {
+	float: left;
+	width: 150px;
+}
+.sidebar-info {
+	float: right;
+	text-align: left;
+	width: 90px;
+}
+
+.tiny {
+	font-size: 10px;
+}
+
